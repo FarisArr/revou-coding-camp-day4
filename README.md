@@ -22,3 +22,6 @@ Project ini dibuat sebagai bagian dari latihan dalam mengikuti program Software 
 ## Cara Menjalankan Project
 
 1. Clone repository ini
+   ```
+   https://github.com/FarisArr/revou-coding-camp-day4.git
+   ```
